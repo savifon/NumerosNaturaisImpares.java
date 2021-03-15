@@ -1,6 +1,6 @@
-/*Dado um número inteiro positivo n, crie um programa em java para imprimir os n
+/* Dado um número inteiro positivo n, crie um programa em java para imprimir os n
 primeiros naturais ímpares. Exemplo: para n=4 a saída deverá ser 1,3,5,7.
-Nome do programa: NumerosNaturaisImpares.java*/
+Nome do programa: NumerosNaturaisImpares.java */
 
 import java.util.*;
 
